@@ -1,0 +1,54 @@
+body{
+    font-family: inter;
+}
+.head > h1 {
+    display: inline;
+    color: #FFFFFF;
+
+
+}
+
+.head > h1:nth-child(2) {
+background: #e4e00c;
+color: #FF006E;
+}
+
+.links > h1 {
+    display: inline;
+    color: #FFFFFF;
+    margin-right: 50px ;
+    
+
+}
+.head{
+    display: inline;
+    margin-right: 50px;
+    margin-left: 200px;
+}
+.links{
+    display: inline;
+    margin-left: 100px;
+    
+    font-weight: 100;
+    font-size: 7px;
+}
+
+.header {
+    background: #111D4A;
+    padding: 20px;
+}
+.search-login{
+    display: inline;
+    margin-left: 80px;
+}
+.search-login > img {
+    display: inline;
+    position: relative;
+    right: 0.5in; 
+    top: 0.06in;
+    
+}
+.search-login > h1{
+    display: inline;
+     color: #FFFFFF;
+}
