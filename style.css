@@ -38,8 +38,10 @@ color: #FF006E;
     padding: 20px;
 }
 .search-login{
+    font-size: 13px;    
     display: inline;
-    margin-left: 80px;
+    margin-left: 200px;
+    
 }
 .search-login > img {
     display: inline;
@@ -51,4 +53,86 @@ color: #FF006E;
 .search-login > h1{
     display: inline;
      color: #FFFFFF;
+}
+
+.first-paragraph{
+    font-size: 25px ;
+    line-height: 8px;
+    position: absolute;
+    left: 30em;
+}
+.first-paragraph{
+    font-family: inter ;
+    color: #111D4A;    
+}
+body{
+    background: #C2CAE8;
+}
+.crmc{
+    position: absolute;
+    bottom: 40px;
+    left: 10em;
+}
+.tri{
+    position: absolute;
+    bottom: 100px;
+    left: 2.5in;   
+}
+.box{
+    position: absolute;
+    left: 47em;
+    top: 3in;
+}
+.second-paragraph{
+    font-size: 16px;
+    line-height: 5px;
+    position: absolute;
+    top: 50rem;
+    left: 49em;
+}
+.second-paragraph{
+    font-family: inter;
+    color: #222222;
+}
+.third-paragraph{
+    font-size: 36px;
+    position: absolute;
+    top: 55rem;
+    left: 1.6in;
+}
+.third-paragraph{
+    color: #111D4A;
+    font-family: inter;
+    font-weight: bold;
+
+}
+.fourth-paragraph{
+    font-size: 20px;
+    line-height: 5px;
+    position: absolute;
+    top: 62.5rem;
+    left: 1.6in;
+    font-weight: bold;
+}
+.fourth-paragraph{
+    font-family: inter;
+    color: #000000;
+}
+.sentence{
+    font-size: 18px;
+    line-height: 5px;
+    position: absolute;
+    top: 67rem;
+    left: 1.6in;
+}
+.sentence{
+    font-family: inter;
+    color: #000000;
+}
+.sentence2{
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: 72rem;
+    left: 1.6in;
 }
