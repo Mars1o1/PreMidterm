@@ -305,7 +305,7 @@ background-color: #e60073;
 .Join {
   position: relative;
   top: 5rem;
-  left: 43rem;
+  text-align: center;
   text-align: center;
   color: white;
 }
@@ -362,6 +362,14 @@ background-color: #e60073;
   right: 1.5rem;
  top: 35rem;
   padding: 100px 50px;
+}
+
+.access-section > img{
+  position: absolute;
+width: 20px;
+height: 20px;
+left: 50rem;
+bottom: 8rem;
 }
 
 .purple img{
@@ -595,3 +603,4 @@ bottom: 28rem;
   left: 0.5rem;
   width: 1350px;
 }
+
